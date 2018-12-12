@@ -1906,7 +1906,13 @@ body {
   }
 }
 .cid-qyNd5JANqI .mbr-timeline-title {
+  text-align: center;
+}
+.cid-qyNd5JANqI .mbr-timeline-date {
   text-align: right;
+}
+.cid-qyNd5JANqI .mbr-timeline-text {
+  text-align: center;
 }
 .cid-qyNkTTTCiE {
   padding-top: 60px;
@@ -1949,7 +1955,7 @@ body {
 .cid-qyNowjetLn {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-color: #0f7699;
+  background-color: #c1c1c1;
 }
 @media (max-width: 767px) {
   .cid-qyNowjetLn .content {
